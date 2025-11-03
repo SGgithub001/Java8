@@ -1,2 +1,6 @@
-package LambdaExpression;public class Shape {
+package LambdaExpression;
+
+public interface Shape {
+    void printName();
+//    void storeName();
 }
