@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a17822fb-1597-422b-af61-4ad28dd72679" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Terminator1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpression/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpression/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpression/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpression/Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpression/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpression/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpression/cal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpression/cal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpression/square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpression/square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Classes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/Classes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
