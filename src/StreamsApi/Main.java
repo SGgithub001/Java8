@@ -127,7 +127,7 @@ public class Main {
                 filter(a -> a.designation.equals("sde1")).
                 distinct().
                 sorted((a,b) -> b.salary - a.salary).
-                flatMap(a -> a.emails.stream()).          //flatering
+                flatMap(a -> a.emails.stream()).          //flatering -> multiple streams and we have to combine all
                 collect(Collectors.toList());
         System.out.println(employeeList1);
     }
